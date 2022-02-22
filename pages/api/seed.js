@@ -2,7 +2,7 @@ import nc from "next-connect";
 import Product from "../../models/Product";
 import database from "../../utils/db";
 import data from "../../utils/data";
-import User from "../../models/user";
+import User from "../../models/User";
 
 const handler = nc();
 
